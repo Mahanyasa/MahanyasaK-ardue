@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on an app or a website
+- 👨‍🎓 SRM IST Kattankulathur Mechatronics 24' Batch
 - 📫 How to reach me at Mahanyasak@outlook.com
 
 <!---
